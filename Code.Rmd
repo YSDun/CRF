@@ -1,5 +1,5 @@
 ---
-Title: "Cardiorespiratory Fitness and Perioperative Complication and Long-Term Mortality in Operable Patients with Early-Stage Non-Small Cell Lung Cancer: A Prospective Study with Propensity Score Overlap Weighting"
+Title: "Cardiorespiratory Fitness and Morbidity and Mortality in Patients with Non-Small Cell Lung Cancer: A Prospective Study with Propensity Score Weighting"
 ---
 
 
@@ -223,7 +223,7 @@ print(tabWeighted, smd = TRUE)
 new.names <- c(Sex = "Sex",
                Age = "Age",
                BMI = "BMI",
-               Smoking_ever = "Smoking ever",
+               Smoking_ever = "Ever smoked",
                Hypertension = "Hypertension",
                Dyslipidemia = "Dyslipidemia",
                Diabetes = "Diabetes",
