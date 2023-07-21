@@ -1,5 +1,5 @@
 ---
-Title: "Cardiorespiratory Fitness and Morbidity and Mortality in Patients with Non-Small Cell Lung Cancer: A Prospective Study with Propensity Score Weighting"
+Title: Cardiorespiratory Fitness and Morbidity and Mortality in Patients with Non-Small Cell Lung Cancer: A Prospective Study with Propensity Score Weighting
 ---
 
 
